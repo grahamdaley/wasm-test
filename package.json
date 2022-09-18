@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "promise-worker": "^2.0.1",
     "vue": "^3.2.37"
   },
   "devDependencies": {
