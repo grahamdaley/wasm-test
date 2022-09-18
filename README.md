@@ -4,6 +4,8 @@ The purpose of this project is to illustrate an issue I came up against when bui
 
 This is a very basic example. The wasm function simply takes a number as input (from the JS code) and returns it, whereupon it is displayed in an alert on the web page.
 
+Feel free to let me know if this is my error, or a known bug with one of the packages I'm using.
+
 ## Prerequisites
 
 - [Rust](https://doc.rust-lang.org/book/ch01-01-installation.html)
